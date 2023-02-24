@@ -1,0 +1,20 @@
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+h2 {
+  color: white;
+}
+
+.small {
+  background-color: skyblue;
+}
+
+.middle {
+  background-color: slateblue;
+}
+
+.big {
+  background-color: yellow;
+}
